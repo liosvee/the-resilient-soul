@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "repository": "liosvee/the-resilient-soul",
+  "branch": "main",
+  "fixed_scope": {
+    "language": "en",
+    "format": "long"
+  }
+}
