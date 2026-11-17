@@ -7,7 +7,7 @@ empty fields get offered for population as work reveals the answers.
 
 - **Topics already published** (avoid repeats; newest first):
 - **Primary keywords already targeted:**
-- **Narrator voice chosen** (name only; the ID goes in channel.json):
+- **Narrator voice chosen** (name only; the ID goes in channel.json): Frederick Surrey
 - **Visual sources you're licensed for** (generators/stock accounts):
 - **Sensitive-topic rule:** (e.g. "when a script touches grief, abuse or self-harm, add a gentle line pointing to professional help")
 - **Upload cadence / day:**

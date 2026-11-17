@@ -4,21 +4,58 @@
   "channel_id": "UCc0FLEsKcwu8N2oNTseGtuw",
   "url": "https://www.youtube.com/@TheResilientSoul-q6i",
   "niche": "Stoic philosophy, resilience and emotional healing",
-  "sub_niches": ["Stoic strategy", "self-mastery", "emotional healing after heartbreak", "rebuilding your life", "mindfulness"],
+  "sub_niches": [
+    "Stoic strategy",
+    "self-mastery",
+    "emotional healing after heartbreak",
+    "rebuilding your life",
+    "mindfulness"
+  ],
   "seed_keywords": [
-    "stoicism", "stoic lessons", "how to be resilient", "emotional resilience",
-    "marcus aurelius", "seneca", "epictetus", "how to move on", "self discipline",
-    "inner peace", "overthinking", "healing after a breakup"
+    "stoicism",
+    "stoic lessons",
+    "how to be resilient",
+    "emotional resilience",
+    "marcus aurelius",
+    "seneca",
+    "epictetus",
+    "how to move on",
+    "self discipline",
+    "inner peace",
+    "overthinking",
+    "healing after a breakup"
   ],
   "relevance_terms": [
-    "stoic", "stoicism", "marcus", "aurelius", "seneca", "epictetus", "resilien",
-    "discipline", "inner peace", "emotional", "heal", "move on", "moving on", "overthink",
-    "mental strength", "self mastery", "self-mastery", "detach", "calm", "strong", "pain", "letting go"
+    "stoic",
+    "stoicism",
+    "marcus",
+    "aurelius",
+    "seneca",
+    "epictetus",
+    "resilien",
+    "discipline",
+    "inner peace",
+    "emotional",
+    "heal",
+    "move on",
+    "moving on",
+    "overthink",
+    "mental strength",
+    "self mastery",
+    "self-mastery",
+    "detach",
+    "calm",
+    "strong",
+    "pain",
+    "letting go"
   ],
   "language": "en",
   "market": "US",
   "format": "long",
-  "target_minutes": [8, 12],
+  "target_minutes": [
+    8,
+    12
+  ],
   "wpm": 140,
   "size": "1920x1080",
   "fps": 30,
@@ -28,10 +65,16 @@
   "target_lufs": -14,
   "accent": "#E8B04B",
   "voice": {
-    "voice_id": null,
+    "voice_id": "j9jfwdrw7BRfcR43Qohk",
     "model_id": "eleven_multilingual_v2",
-    "description": "calm, deep, warm male narrator; unhurried; reflective, not preachy",
-    "settings": {"stability": 0.55, "similarity_boost": 0.8, "style": 0.15, "use_speaker_boost": true}
+    "description": "Frederick Surrey (ElevenLabs library) — calm, well-spoken middle-aged British narrator; smooth, velvety documentary tone",
+    "settings": {
+      "stability": 0.55,
+      "similarity_boost": 0.8,
+      "style": 0.15,
+      "use_speaker_boost": true
+    },
+    "name": "Frederick Surrey"
   },
   "visual_style": "cinematic, moody natural light, muted warm palette with gold accents, marble statues, ancient ruins, lone figures in vast landscapes, rain and sea, 16:9, no text, no logos",
   "default_visual": "a lone figure standing calm in a vast, weathered landscape at dusk",
